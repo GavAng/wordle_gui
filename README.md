@@ -6,7 +6,9 @@ I wanted a project to push me to learn Tkinter, and since Wordle was a global tr
 
 ## Setup Instructions
 
-1. Install the *functools* module by running: 
-> pip install functools
+1. Install *Tkinter* by running:
+
+> python -m pip install functools
+
 2. Run *mainWordle.py*
 3. Use your keyboard or the on-screen keyboard to play the game
